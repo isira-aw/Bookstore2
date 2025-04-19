@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Bookstore2" />
+        <module name="bookstore" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Bookstore2" options="-endorseddirs C:\Users\isira\OneDrive\Documents\NetBeansProjects\Bookstore2\target/endorsed" />
+      <module name="bookstore" options="" />
     </option>
   </component>
 </project>
