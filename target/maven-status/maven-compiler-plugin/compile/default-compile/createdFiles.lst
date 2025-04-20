@@ -1,0 +1,11 @@
+com\bookstore\bookstore\model\CartItem.class
+com\bookstore\bookstore\model\Customer.class
+com\bookstore\bookstore\resource\CartResource.class
+com\bookstore\bookstore\resource\OrderResource.class
+com\bookstore\bookstore\resource\AuthorResource.class
+com\bookstore\bookstore\model\Author.class
+com\bookstore\bookstore\model\Order.class
+com\bookstore\bookstore\model\Book.class
+com\bookstore\bookstore\resource\BookResource.class
+com\bookstore\bookstore\config\ApplicationConfig.class
+com\bookstore\bookstore\resource\CustomerResource.class
